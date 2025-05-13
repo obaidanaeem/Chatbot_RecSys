@@ -1,6 +1,8 @@
 fastapi
 uvicorn
-langchain-community
-faiss-cpu
+langchain==0.1.9
+faiss-cpu==1.8.0
 sentence-transformers
+transformers
 google-generativeai
+pyngrok
